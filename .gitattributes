@@ -1,0 +1,9 @@
+# 自動處理換行符號（適用所有平台）
+* text=auto
+
+# Python 檔案行尾統一 LF（Unix 風格）
+*.py text eol=lf
+
+# Markdown、JSON 類型文字檔案
+*.md text
+*.json text
